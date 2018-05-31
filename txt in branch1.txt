@@ -1,1 +1,4 @@
-update in branch2
+<<<<<<< HEAD
+=======
+update in branch3
+>>>>>>> branch3
